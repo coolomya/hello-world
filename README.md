@@ -1,5 +1,5 @@
 # hello-world
-first repository, learning, gitHub basic
+first repository, learn, gitHub basic
 
 Hello fellow humans, I am Omey, the one and only.
 Sometimes I like to end sentences on .
